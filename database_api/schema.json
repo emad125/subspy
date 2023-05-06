@@ -1,0 +1,94 @@
+[
+	{
+		"OrgName": "org1",
+		"Domains": 
+		[
+			{
+				"domain" : "domain1",
+				"subdomains":
+				[
+					{
+						"url" : "text",
+						"date_from": "datetime",
+						"date_to": "datetime",
+						"status_code" : "status_Code"
+					},
+					{
+						"url" : "text2",
+						"date_from": "datetime2",
+						"date_to": "datetime2",
+						"status_code" : "status_Code2"
+					}
+				]
+
+			},
+			{
+				"domain" : "domain2",
+				"subdomains":
+				[
+					{
+						"url" : "text",
+						"date_from": "datetime",
+						"date_to": "datetime",
+						"status_code" : "status_Code"
+					},
+					{
+						"url" : "text2",
+						"date_from": "datetime2",
+						"date_to": "datetime2",
+						"status_code" : "status_Code2"
+					}
+				]
+
+			}
+		]
+	},
+	{
+		"OrgName": "org2",
+		"Domains": 
+		[
+			{
+				"domain" : "domain1",
+				"subdomains":
+				[
+					{
+						"url" : "text",
+						"date_from": "datetime",
+						"date_to": "datetime",
+						"status_code" : "status_Code"
+					},
+					{
+						"url" : "text2",
+						"date_from": "datetime2",
+						"date_to": "datetime2",
+						"status_code" : "status_Code2"
+					}
+				]
+
+			},
+			{
+				"domain" : "domain2",
+				"subdomains":
+				[
+					{
+						"url" : "text",
+						"date_from": "datetime",
+						"date_to": "datetime",
+						"status_code" : "status_Code"
+					},
+					{
+						"url" : "text2",
+						"date_from": "datetime2",
+						"date_to": "datetime2",
+						"status_code" : "status_Code2"
+					}
+				]
+
+			}
+		]
+	}
+
+]
+
+
+
