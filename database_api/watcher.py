@@ -111,7 +111,7 @@ def insert(orgname, domain, subdomains):
 def main():
     is_exist(collection, db)
     # insert(orgname="org5", domain="mha4065.com", subdomains="r.mha4065.com")
-    print(read(date_from="2023-05-01T07:32:05", date_to="2023-05-12T07:00:15"))
+    print(read(domain="domain4"))
 
 
 if __name__ == "__main__":
