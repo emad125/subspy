@@ -8,15 +8,13 @@
 				"subdomains":
 				[
 					{
-						"url" : "text",
-						"date_from": "datetime",
-						"date_to": "datetime",
+						"url" : "sub1",
+						"date": "2023-05-01T07:32:05",
 						"status_code" : "status_Code"
 					},
 					{
-						"url" : "text2",
-						"date_from": "datetime2",
-						"date_to": "datetime2",
+						"url" : "sub2",
+						"date": "2023-05-01T07:34:12",
 						"status_code" : "status_Code2"
 					}
 				]
@@ -27,15 +25,13 @@
 				"subdomains":
 				[
 					{
-						"url" : "text",
-						"date_from": "datetime",
-						"date_to": "datetime",
+						"url" : "sub3",
+						"date": "2023-05-03T10:18:44",
 						"status_code" : "status_Code"
 					},
 					{
-						"url" : "text2",
-						"date_from": "datetime2",
-						"date_to": "datetime2",
+						"url" : "sub4",
+						"date": "2023-05-04T19:17:21",
 						"status_code" : "status_Code2"
 					}
 				]
@@ -48,38 +44,34 @@
 		"Domains": 
 		[
 			{
-				"domain" : "domain1",
+				"domain" : "domain3",
 				"subdomains":
 				[
 					{
-						"url" : "text",
-						"date_from": "datetime",
-						"date_to": "datetime",
+						"url" : "sub5",
+						"date": "2023-05-10T07:00:15",
 						"status_code" : "status_Code"
 					},
 					{
-						"url" : "text2",
-						"date_from": "datetime2",
-						"date_to": "datetime2",
+						"url" : "sub6",
+						"date": "2023-05-11T18:32:05",
 						"status_code" : "status_Code2"
 					}
 				]
 
 			},
 			{
-				"domain" : "domain2",
+				"domain" : "domain4",
 				"subdomains":
 				[
 					{
-						"url" : "text",
-						"date_from": "datetime",
-						"date_to": "datetime",
+						"url" : "sub7",
+						"date": "2023-05-15T08:24:01",
 						"status_code" : "status_Code"
 					},
 					{
-						"url" : "text2",
-						"date_from": "datetime2",
-						"date_to": "datetime2",
+						"url" : "sub8",
+						"date": "2023-05-15T12:45:33",
 						"status_code" : "status_Code2"
 					}
 				]
